@@ -63,7 +63,8 @@ React.render(
 该代码是React.js代码，是react.js入门学习一中的代码复制过来的 为了演示；
 
 ## 安装步骤如下：
-1. 生成package.json文件；
+> 1. 生成package.json文件；
+
 首先我们需要在根目录下生成package.json文件，需要进入项目文件内根目录下执行如下命令：npm init
 ![webpack](./webpackImg/1.png)
 
