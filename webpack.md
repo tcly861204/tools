@@ -9,4 +9,21 @@
 * 5.更多等等。。。带着这些问题我们慢慢来学习webpack。
 
 # 二：如何安装和配置
+首先我的项目目录结构是：文件名叫webpack，里面只有一个main.html，代码如下：
 
+```javascript
+
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <script src="src/react.min.js"></script>
+ </head>
+ <body>
+    <div id="content"></div>
+    <script src="build/build.js"></script>
+ </body>
+</html>
+
+```
